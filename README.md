@@ -15,10 +15,10 @@
 |<a href="https://yonghun16.github.io/starbucks_clone/"><img src="https://raw.githubusercontent.com/yonghun16/starbucks_clone/main/main_img.png" width=825px /></a>|
 |<ul><li>별다방 website clone</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/starbucks_clone)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
 
-| 깃펍 Clone |
+| 빗헙 Clone |
 |-----------------------|
 |<a href="https://yonghun16.github.io/github.com/"><img src="https://raw.githubusercontent.com/yonghun16/Github/main/github_front_page.png" width=825px /></a>|
-|<ul><li>깃펍 website clone</li><li>Single-page, 반응형</li><li><a href="https://github.com/yonghun16/github.com/"> Github page </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <!-- SCSS --><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a></li></ul>|
+|<ul><li>빗헙 website clone</li><li>Single-page, 반응형</li><li><a href="https://github.com/yonghun16/github.com/"> Github page </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <!-- SCSS --><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a></li></ul>|
 
 | 코코아톡 Clone |
 |----------------------|
