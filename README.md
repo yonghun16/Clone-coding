@@ -1,34 +1,34 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Clone%20coding&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
-| Wordle Clone |
+| 워들 Clone |
 |-----------------------|
 |<a href="https://yonghun16.github.io/wordle/"><img src="https://raw.githubusercontent.com/yonghun16/wordle/refs/heads/main/wordle.jpg" width=825px /></a>|
-|<ul><li>"Wordle" webgame clone</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/wordle)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
+|<ul><li>워들 clone</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/wordle)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
 
-| apple.com/ipad-10.2 Clone |
+| 어른패드 Clone |
 |-----------------------|
 |<a href="https://yonghun16.github.io/apple-ipad-app"><img src="https://raw.githubusercontent.com/yonghun16/apple-ipad-app/main/ipad.jpg" width=825px /></a>|
-|<ul><li>"apple.com/ipad-10.2" website clone</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/apple-ipad-app)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
+|<ul><li>어른패드 website clone</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/apple-ipad-app)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
 
-| starbucks.co.kr Clone |
+| 별다방 Clone |
 |-----------------------|
 |<a href="https://yonghun16.github.io/starbucks_clone/"><img src="https://raw.githubusercontent.com/yonghun16/starbucks_clone/main/main_img.png" width=825px /></a>|
-|<ul><li>"starbucks.co.kr" website clone</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/starbucks_clone)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
+|<ul><li>별다방 website clone</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/starbucks_clone)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
 
-| github.com Clone |
+| 깃펍 Clone |
 |-----------------------|
 |<a href="https://yonghun16.github.io/github.com/"><img src="https://raw.githubusercontent.com/yonghun16/Github/main/github_front_page.png" width=825px /></a>|
-|<ul><li>"github.com" website clone</li><li>Single-page, 반응형</li><li><a href="https://github.com/yonghun16/github.com/"> Github page </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <!-- SCSS --><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a></li></ul>|
+|<ul><li>깃펍 website clone</li><li>Single-page, 반응형</li><li><a href="https://github.com/yonghun16/github.com/"> Github page </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <!-- SCSS --><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a></li></ul>|
 
-| 카카오톡 UI Clone |
+| 코코아톡 Clone |
 |----------------------|
 |<a href="https://yonghun16.github.io/kakao_ui/"><img src="https://github.com/yonghun16/kakao_ui/blob/main/frontimage.png?raw=true" width=825px /></a>|
-|<ul><li>"카카오톡 UI" clone</li><li>Multi-page, 반응형</li><li><a href="https://github.com/yonghun16/kakao_ui"> Github page </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a> </li></ul>|
+|<ul><li>코코아톡 Clone</li><li>Multi-page, 반응형</li><li><a href="https://github.com/yonghun16/kakao_ui"> Github page </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- Gulp --><a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a> </li></ul>|
 
-| 모멘텀 Clone |
+| 모모텀 Clone |
 |----------------------|
 |<a href="https://yonghun16.github.io/momentum/"><img src="https://github.com/yonghun16/momentum/raw/main/fontpage.png" width=825px /></a>|
-|<ul><li>모멘텀 클론</li><li>Single-page</li><li><a href="https://github.com/yonghun16/momentum">Github page</a></li><li><!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
+|<ul><li>모모텀 클론</li><li>Single-page</li><li><a href="https://github.com/yonghun16/momentum">Github page</a></li><li><!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
 
 | 밈 메이커(그림판) |
 |----------------------|
