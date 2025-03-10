@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Clone%20coding&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+| 워드서치 Clone |
+|-----------------------|
+|<a href="http://140.238.9.24:8001/"><img src="https://raw.githubusercontent.com/yonghun16/wordsearch/refs/heads/main/app.png" width=825px /></a>|
+|<ul><li>격자판(grid) 속에 숨겨진 단어들을 찾아내는 퍼즐 게임</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/wordsearch)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a> <!-- FastAPI --><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" /></a></li></ul>|
+
 | 워들 Clone |
 |-----------------------|
 |<a href="http://140.238.9.24:8000/"><img src="https://raw.githubusercontent.com/yonghun16/wordle/refs/heads/main/wordle.jpg" width=825px /></a>|
