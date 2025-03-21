@@ -2,7 +2,7 @@
 
 | Tic-Tac-Toe Clone |
 |-----------------------|
-|<a href="https://tictactoe-nine-sandy.vercel.app/"><img src="https://github.com/yonghun16/tictactoe/blob/main/preview.gif?raw=true" width=825px /></a>|
+|<a href="https://tictactoe-nine-sandy.vercel.app/"><img src="https://github.com/yonghun16/tictactoe/blob/main/preview.jpg?raw=true" width=825px /></a>|
 |<ul><li>Tic-Tac-Toe(틱택토)는 두 명이 번갈아 가며 3×3 격자에 O 또는 X를 표시하여<br />가로, 세로, 대각선 중 한 줄을 먼저 완성하는 사람이 승리하는 게임입니다.</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/tictactoe/)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <!-- Vercel --><a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
 
 | Pig Game Clone |
