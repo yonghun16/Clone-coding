@@ -2,7 +2,7 @@
 
 | Vanilla Js movie App |
 |-----------------------|
-|<a href="https://react-digeni-plus.web.app/"><img src="https://github.com/yonghun16/vanillajs-movie-app/blob/main/preview.jpg?raw=true" width=825px /></a>|
+|<a href="https://vanillajs-movie-app-flame.vercel.app/"><img src="https://github.com/yonghun16/vanillajs-movie-app/blob/main/preview.jpg?raw=true" width=825px /></a>|
 |<ul><li>Vanilla JS Movie App</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/vanillajs-movie-app)</li><li><!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <!-- Vercel --><a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
 
 | Digenie Plus Clone |
