@@ -7,8 +7,8 @@
 
 | Digenie Plus Clone |
 |-----------------------|
-|<a href="https://react-digeni-plus.web.app/"><img src="https://github.com/yonghun16/digenie-plus/blob/main/preview.png?raw=true" width=825px /></a>|
-|<ul><li>디지니 플러스 클론코딩</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/digenie-plus)</li><li><!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white" /></a></li></ul>|
+|<a href="https://react-digeni-plus.web.app/"><img src="https://github.com/yonghun16/digenie-plus/blob/main/preview.jpg?raw=true" width=825px /></a>|
+|<ul><li>디지니 플러스 클론코딩</li><li>firebase SNS 인증 로그인</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/digenie-plus)</li><li><!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white" /></a></li></ul>|
 
 | Wetube Clone |
 |-----------------------|
