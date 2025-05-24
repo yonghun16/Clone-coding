@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Clone%20coding&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+| Instargram Cover |
+|-----------------------|
+|<a href="https://insta33234.netlify.app/"><img src="https://github.com/yonghun16/instagram-cover/blob/main/preview.jpg" width=825px /></a>|
+|<ul><li>인스타그램 클론 App</li><li>캐로셀, 모달, 무한휠, PWA</li><li>Single-page, PWA</li><li>[Github page](https://github.com/yonghun16/instagram-cover)</li><li><!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a> <!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a> <!-- Netlify --><a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-1EC0B1?style=flat&logo=Netlify&logoColor=white" /></a></li></ul>|
+
 | Crypto Tracker |
 |-----------------------|
 |<a href="https://crypto-tracker-psi-tan.vercel.app/"><img src="https://github.com/yonghun16/crypto-tracker/blob/main/preview.jpg?raw=true" width=825px /></a>|
@@ -13,7 +18,7 @@
 | Digenie Plus Clone |
 |-----------------------|
 |<a href="https://react-digeni-plus.web.app/"><img src="https://github.com/yonghun16/digenie-plus/blob/main/preview.jpg?raw=true" width=825px /></a>|
-|<ul><li>디지니 플러스 클론코딩</li><li>firebase SNS 인증 로그인</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/digenie-plus)</li><li><!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white" /></a></li></ul>|
+|<ul><li>디지니 플러스 클론코딩</li><li>firebase SNS 인증 로그인</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/digenie-plus)</li><li><!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <!-- Styled Components --><a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <!-- Firebase --><a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white" /></a></li></ul>|
 
 | Wetube Clone |
 |-----------------------|
@@ -23,7 +28,7 @@
 | Tic-Tac-Toe Clone |
 |-----------------------|
 |<a href="https://tictactoe-nine-sandy.vercel.app/"><img src="https://github.com/yonghun16/tictactoe/blob/main/preview.jpg?raw=true" width=825px /></a>|
-|<ul><li>Tic-Tac-Toe(틱택토)는 두 명이 번갈아 가며 3×3 격자에 O 또는 X를 표시하여가로, 세로, 대각선 중 <br />한 줄을 먼저 완성하는 사람이 승리하는 게임입니다.</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/tictactoe/)</li><li><!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <!-- Vercel --><a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
+|<ul><li>Tic-Tac-Toe(틱택토)는 두 명이 번갈아 가며 3×3 격자에 O 또는 X를 표시하여가로, 세로, 대각선 중 <br />한 줄을 먼저 완성하는 사람이 승리하는 게임입니다.</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/tictactoe/)</li><li><!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <!-- Vercel --><a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
 
 | Pig Game Clone |
 |-----------------------|
