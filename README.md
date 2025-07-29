@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Clone%20coding&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+| Movie App - Next.js |
+|-----------------------|
+|<a href="https://movieapp-nextjs-p9t9.vercel.app/"><img src="https://github.com/yonghun16/movieapp-nextjs/blob/main/preview.jpg?raw=true" width=825px /></a>|
+|<ul><li>영화 정보 App - Next.js</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/movieapp-nextjs)</li><li><!-- TypeScript --><a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <!-- Next.js --><a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a> <!-- Vercel --><a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
+
 | Travel Package Store |
 |-----------------------|
 |<a href="https://travel-package-store.onrender.com/"><img src="https://github.com/yonghun16/travel-package-store/blob/main/preview.jpg?raw=true" width=825px /></a>|
