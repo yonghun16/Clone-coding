@@ -1,20 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Clone%20coding&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
-| Movie App - Next.js |
-|-----------------------|
-|<a href="https://movieapp-nextjs-p9t9.vercel.app/"><img src="https://github.com/yonghun16/movieapp-nextjs/blob/main/preview.jpg?raw=true" width=825px /></a>|
-|<ul><li>영화 정보 App - Next.js</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/movieapp-nextjs)</li><li> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
-
-| Nwiter Clone |
-|-----------------------|
-|<a href="https://nwitter-reloaded-alpha.vercel.app/"><img src="https://github.com/yonghun16/nwitter-reloaded/blob/main/preview.jpg?raw=true" width=825px /></a>|
-|<ul><li>트위터 클론</li><li>소셜 로그인, 트윗 (글, 사진) 올리기, 수정, 삭제, 회원정보 수정, 좋아요, 검색</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/nwitter-reloaded)</li><li><a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a> <a href="https://www.cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=Cursor&logoColor=white" /></a></li></ul>|
-
 | Travel Package Store |
 |-----------------------|
 |<a href="https://travel-package-store.onrender.com/"><img src="https://github.com/yonghun16/travel-package-store/blob/main/preview.jpg?raw=true" width=825px /></a>|
 |<ul><li>여행 상품 스토어</li><li>회원가입, 로그인(로그아웃), 상품CRUD, 상품 검색 & 필터, 장바구니, 결제</li><li>Render 배포로 접속 후 15~20초 sleep 해제 시간 필요</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/travel-package-store)</li><li> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white" /></a> <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" /></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a> <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-000000?style=flat&logo=Render&logoColor=white" /></a> </li></ul>|
 
+| Vanilla Js movie App |
+|-----------------------|
+|<a href="https://vanillajs-movie-app-flame.vercel.app/"><img src="https://github.com/yonghun16/vanillajs-movie-app/blob/main/preview.jpg?raw=true" width=825px /></a>|
+|<ul><li>Vanilla JS Movie App</li><li>Component, Routing, and Store based on Vanilla JavaScript</li><li>loading Animation, Skeleton UI</li><li>API key hide</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/vanillajs-movie-app)</li><li> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
+
+| 어른패드 Clone |
+|-----------------------|
+|<a href="https://yonghun16.github.io/apple-ipad-app"><img src="https://raw.githubusercontent.com/yonghun16/apple-ipad-app/main/ipad.jpg" width=825px /></a>|
+|<ul><li>어른패드 website clone</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/apple-ipad-app)</li><li> <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>   <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
+
+
+<!--
 | Instargram Cover |
 |-----------------------|
 |<a href="https://insta33234.netlify.app/"><img src="https://github.com/yonghun16/instagram-cover/blob/main/preview.jpg" width=825px /></a>|
@@ -24,11 +26,6 @@
 |-----------------------|
 |<a href="https://crypto-tracker-psi-tan.vercel.app/"><img src="https://github.com/yonghun16/crypto-tracker/blob/main/preview.jpg?raw=true" width=825px /></a>|
 |<ul><li>암호화폐 정보 조회 App</li><li>코인 목록 보기, 코인 정보 보기(차트, 가격), 테마 변경</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/crypto-tracker)</li><li> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=React%20query&logoColor=white" /></a> <a href="https://recoiljs.org"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
-
-| Vanilla Js movie App |
-|-----------------------|
-|<a href="https://vanillajs-movie-app-flame.vercel.app/"><img src="https://github.com/yonghun16/vanillajs-movie-app/blob/main/preview.jpg?raw=true" width=825px /></a>|
-|<ul><li>Vanilla JS Movie App</li><li>Component, Routing, and Store based on Vanilla JavaScript</li><li>loading Animation, Skeleton UI</li><li>API key hide</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/vanillajs-movie-app)</li><li> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
 
 | Digenie Plus Clone |
 |-----------------------|
@@ -55,25 +52,15 @@
 |<a href="https://yonghun16.github.io/wordle/"><img src="https://raw.githubusercontent.com/yonghun16/wordle/refs/heads/main/wordle.jpg" width=825px /></a>|
 |<ul><li>6번의 기회로 5글자 단어를 추측하는 게임</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/wordle)</li><li> <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a></li></ul>|
 
-| 어른패드 Clone |
-|-----------------------|
-|<a href="https://yonghun16.github.io/apple-ipad-app"><img src="https://raw.githubusercontent.com/yonghun16/apple-ipad-app/main/ipad.jpg" width=825px /></a>|
-|<ul><li>어른패드 website clone</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/apple-ipad-app)</li><li> <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>   <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
-
-| 별다방 Clone |
-|-----------------------|
-|<a href="https://yonghun16.github.io/starbucks_clone/"><img src="https://raw.githubusercontent.com/yonghun16/starbucks_clone/main/main_img.png" width=825px /></a>|
-|<ul><li>별다방 website clone</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/starbucks_clone)</li><li> <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>  <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
-
 | 빗헙 Clone |
 |-----------------------|
 |<a href="https://yonghun16.github.io/github.com/"><img src="https://raw.githubusercontent.com/yonghun16/Github/main/github_front_page.png" width=825px /></a>|
 |<ul><li>빗헙 website clone</li><li>Single-page, 반응형</li><li><a href="https://github.com/yonghun16/github.com/"> Github page </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a>  <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a></li></ul>|
 
-| 코코아톡 Clone |
-|----------------------|
-|<a href="https://yonghun16.github.io/kakao_ui/"><img src="https://github.com/yonghun16/kakao_ui/blob/main/frontimage.png?raw=true" width=825px /></a>|
-|<ul><li>코코아톡 Clone</li><li>Multi-page, 반응형</li><li><a href="https://github.com/yonghun16/kakao_ui"> Github page </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a> </li></ul>|
+| 별다방 Clone |
+|-----------------------|
+|<a href="https://yonghun16.github.io/starbucks_clone/"><img src="https://raw.githubusercontent.com/yonghun16/starbucks_clone/main/main_img.png" width=825px /></a>|
+|<ul><li>별다방 website clone</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/starbucks_clone)</li><li> <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>  <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
 
 | 모모텀 Clone |
 |----------------------|
@@ -90,8 +77,21 @@
 |<a href="https://jobscrapper.yonghun16.repl.co/"><img src="https://raw.githubusercontent.com/yonghun16/job_scrapper/main/front_page.png" width=825px /></a>|
 |<ul><li>웹 스크래퍼(일자리 검색) </li><li><a href="https://github.com/yonghun16/job_scrapper"> Github page</a></li><li> <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3876AB?style=flat&logo=Python&logoColor=white" /></a> <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-0C7963?style=flat&logo=Flask&logoColor=white" /></a></li></ul>|
 
+| Movie App - Next.js |
+|-----------------------|
+|<a href="https://movieapp-nextjs-p9t9.vercel.app/"><img src="https://github.com/yonghun16/movieapp-nextjs/blob/main/preview.jpg?raw=true" width=825px /></a>|
+|<ul><li>영화 정보 App - Next.js</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/movieapp-nextjs)</li><li> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
 
-<!--
+| Nwiter Clone |
+|-----------------------|
+|<a href="https://nwitter-reloaded-alpha.vercel.app/"><img src="https://github.com/yonghun16/nwitter-reloaded/blob/main/preview.jpg?raw=true" width=825px /></a>|
+|<ul><li>트위터 클론</li><li>소셜 로그인, 트윗 (글, 사진) 올리기, 수정, 삭제, 회원정보 수정, 좋아요, 검색</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/nwitter-reloaded)</li><li><a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <a href="https://firebase.google.com"/><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a> <a href="https://www.cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=Cursor&logoColor=white" /></a></li></ul>|
+
+| 코코아톡 Clone |
+|----------------------|
+|<a href="https://yonghun16.github.io/kakao_ui/"><img src="https://github.com/yonghun16/kakao_ui/blob/main/frontimage.png?raw=true" width=825px /></a>|
+|<ul><li>코코아톡 Clone</li><li>Multi-page, 반응형</li><li><a href="https://github.com/yonghun16/kakao_ui"> Github page </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a> </li></ul>|
+
 | Webpage, App UI Clones |
 |--------|
 |<a href="https://yonghun16.github.io/besthorrorscenes.com/"><img src="https://raw.githubusercontent.com/yonghun16/besthorrorscenes.com/main/besthorrorscenes.com_front_page.png" width=49% /></a> <a href="https://yonghun16.github.io/education_app_ui/"><img src="https://raw.githubusercontent.com/yonghun16/education_app_ui/main/front_page.png" width=49% /></a> <a href="https://yonghun16.github.io/fashion-store_ui/"><img src="https://raw.githubusercontent.com/yonghun16/fashion-store_ui/main/design.png" width=49% /></a> <a href="https://yonghun16.github.io/beauty-store_ui/"><img src="https://raw.githubusercontent.com/yonghun16/beauty-store_ui/main/design.jpg" width=49% /></a><a href="https://yonghun16.github.io/design-agency_ui/"><img src="https://raw.githubusercontent.com/yonghun16/design-agency_ui/main/design.png" width=49% /></a> <a href="https://yonghun16.github.io/architect_studio_ui/"><img src="https://raw.githubusercontent.com/yonghun16/architect_studio_ui/main/design.png" width=49% /></a> <a href="https://yonghun16.github.io/pixies_poster/"><img src="https://github.com/yonghun16/pixies_poster/blob/main/design.jpg" width=49% /></a> <a href="https://yonghun16.github.io/concert_poster/"><img src="https://github.com/yonghun16/concert_poster/blob/main/design.jpg" width=49% /></a>|
